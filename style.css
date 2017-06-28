@@ -1,0 +1,29 @@
+form {
+  width: 250px;
+  display: inline-block;
+  vertical-align: top;
+}
+main {
+  display: inline-block;
+  width: 850px;
+}
+label {
+  display: block;
+}
+.card {
+  width: 250px;
+  height: 150px;
+  border: 2px solid black;
+  margin: 10px;
+  padding: 5px;
+  text-align: center;
+  display: inline-block;
+  overflow: scroll;
+}
+
+h3 {
+  vertical-align: middle;
+}
+p {
+  vertical-align: middle;
+}
